@@ -20,8 +20,8 @@ body {
   max-width: 300px; /* Adjust the value as needed */
   background-size: contain; /* Ensure logo fits within available space */
   position: fixed;
-  left: 50px; /* Adjust the left position of the logo as needed */
-  top: 50px; 
+  left: 20px; /* Adjust the left position of the logo as needed */
+  top: 20px; 
   background-repeat: no-repeat;
   z-index: -1;
 }
