@@ -31,12 +31,10 @@ body {
   border-radius: 15px;
   box-shadow: 0 0 10px 2px rgba(48, 48, 48, 0.903);
   overflow: hidden;
-  width: auto;
-  height: auto;
 }
 
 .quiz-header {
-  padding: 4rem;
+  padding: 15rem;
 }
 
 h2 {
